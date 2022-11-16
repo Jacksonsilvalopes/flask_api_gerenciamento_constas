@@ -1,5 +1,5 @@
 USERNAME = 'root'
-PASSWORD = 'Vbjev10#'
+PASSWORD = ''
 SERVER   = 'localhost'
 DB = 'gerenciamento_contas'
 
