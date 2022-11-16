@@ -1,0 +1,5 @@
+Para reconhecer comando flask
+(venv) jack@jack-desktop:~/StudioProjects/gerenciamento_contas$ export FLASK_APP=api
+
+Para iniciar servidor flask
+(venv) jack@jack-desktop:~/StudioProjects/gerenciamento_contas$ flask run
